@@ -1,0 +1,68 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "startTime": "12-22-2020, 10:31 AM",
+      "endTime": "12-22-2020 10:32 AM",
+      "difficulty": "Normal",
+      "timeSpent": 6.421,
+      "status": "Lose"
+    },
+    {
+      "id": 2,
+      "startTime": "10-22-2020, 12:09 AM",
+      "endTime": "10-22-2020 12:11 AM",
+      "difficulty": "Easy",
+      "timeSpent": 2.451,
+      "status": "Win"
+    },
+    {
+      "startTime": "5/18/2020, 7:56:19 PM",
+      "endTime": "5/18/2020, 7:56:24 PM",
+      "difficulty": "Easy",
+      "timeSpent": 4.573,
+      "status": "Lose",
+      "id": 3
+    },
+    {
+      "startTime": "5/18/2020, 8:16:15 PM",
+      "endTime": "5/18/2020, 8:16:18 PM",
+      "difficulty": "Easy",
+      "timeSpent": 2.729,
+      "status": "Lose",
+      "id": 4
+    },
+    {
+      "startTime": "5/18/2020, 8:18:39 PM",
+      "endTime": "5/18/2020, 8:18:45 PM",
+      "difficulty": "Easy",
+      "timeSpent": 5.794,
+      "status": "Lose",
+      "id": 5
+    },
+    {
+      "startTime": "5/18/2020, 8:26:33 PM",
+      "endTime": "5/18/2020, 8:26:38 PM",
+      "difficulty": "Hard",
+      "timeSpent": 5.32,
+      "status": "Lose",
+      "id": 6
+    },
+    {
+      "startTime": "5/18/2020, 8:29:22 PM",
+      "endTime": "5/18/2020, 8:29:31 PM",
+      "difficulty": "Custom",
+      "timeSpent": 9.434,
+      "status": "Lose",
+      "id": 7
+    },
+    {
+      "startTime": "5/18/2020, 8:29:35 PM",
+      "endTime": "5/18/2020, 8:29:37 PM",
+      "difficulty": "Custom",
+      "timeSpent": 1.847,
+      "status": "Lose",
+      "id": 8
+    }
+  ]
+}

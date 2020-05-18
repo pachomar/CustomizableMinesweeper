@@ -1,0 +1,12 @@
+
+.game-info {
+    min-height: 50px;
+}
+
+.board{
+    display: inline-block;
+}
+
+.board-parent{
+    text-align: center
+}

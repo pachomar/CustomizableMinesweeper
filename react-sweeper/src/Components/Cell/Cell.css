@@ -1,0 +1,26 @@
+.cell {
+    background: rgb(107,104,121);
+    background: linear-gradient(321deg, rgba(107,104,121,1) 58%, rgba(196,197,215,1) 97%);
+    border: 1px solid #414c69;
+    float: left;
+    line-height: 34px;
+    height: 34px;
+    text-align: center;
+    width: 34px;
+    cursor: pointer;
+}
+
+.cell:focus {
+    background: rgb(107,104,121);
+    background: linear-gradient(321deg, rgba(107,104,121,1) 58%, rgba(196,197,215,1) 97%);
+    outline: none;
+}
+
+.hidden {
+    background: rgb(107,104,121);;
+}
+
+.is-flag,
+.is-mine {
+    color: #fc543c;
+}
